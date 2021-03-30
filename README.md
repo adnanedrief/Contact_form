@@ -22,4 +22,4 @@ on peut utiliser aussi une SMTP pour le faire avec quelques modifications.
 
 ## Résultat ##
 
-<img src="https://raw.githubusercontent.com/adnanedrief/Contact_form/main/r%C3%A9ussite.png?token=ASH4O3QX5VSKZ7FMYZYOHWLANQ4LM" width="425"/>
+<img src="https://raw.githubusercontent.com/adnanedrief/Contact_form/main/email_recu.png?token=ASH4O3THIVNFXYADQKH5JTDANQ5AG" width="425"/>
