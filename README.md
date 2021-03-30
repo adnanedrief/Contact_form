@@ -8,7 +8,7 @@ on peut utiliser aussi une SMTP pour le faire avec quelques modifications.
 2) Activer cette option dans votre compte gmail <a href="https://myaccount.google.com/security"> ici. </a>.
 <img src="https://raw.githubusercontent.com/adnanedrief/Contact_form/main/google_account.png?token=ASH4O3W3MKF6IP63L2EXJKLANQ2Q6" width="425"/>
 3) Activer le openssl,php_smtp and php_sockets dans le WampServer.<br>
-4)Configurer le fichier php : <img src="https://raw.githubusercontent.com/adnanedrief/Contact_form/main/smtp_config.png?token=ASH4O3TXCKCGB3Q6QGQEV3DANQ3ZS" width="425"/>
+4) Configurer le fichier php : <img src="https://raw.githubusercontent.com/adnanedrief/Contact_form/main/smtp_config.png?token=ASH4O3TXCKCGB3Q6QGQEV3DANQ3ZS" width="425"/>
 
 
 # Fonctionnement 
